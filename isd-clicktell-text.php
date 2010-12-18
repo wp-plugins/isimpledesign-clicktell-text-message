@@ -1,12 +1,14 @@
 <?php
 /*
 Plugin Name: iSimpleDesign Clicktell Text Message
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
-Description: A brief description of the Plugin.
-Version: The Plugin's Version Number, e.g.: 1.0
+Plugin URI: http://www.isimpledesign.co.uk
+Description: I created this simple plugin to use clicktells api text system it basically displays a form using the shortcode [sms] within any post or page so people can just send you a text instantly to your phone or a number off choice.
+
+This is in its very basic stages at the moment but i am hoping to really extend this plugin in the coming months.
+Version: 1.0
 Author: Samuel R W East
-Author URI: http://URI_Of_The_Plugin_Author
-License: A "Slug" license name e.g. GPL2
+Author URI: http://www.isimpledesign.co.uk
+License: GPL2
 */
 
 
