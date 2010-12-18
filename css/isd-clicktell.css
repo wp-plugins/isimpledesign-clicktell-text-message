@@ -1,5 +1,5 @@
 #isd-clicktell-form {
-	width:250px;
+	width:auto;
 	height:auto;
 	 -moz-border-radius: 11px 11px 11px 11px;
     background-color: #111111;
@@ -19,4 +19,13 @@
 #isd-clicktell-form textarea {
 	width:100%;
 	height:200px;
+	margin-bottom:10px;
+}
+
+#isd-clicktell-form input#send {
+    background-image: none;
+    border: medium none;
+    height: 24px;
+    position: relative;
+    width: 81px;
 }
