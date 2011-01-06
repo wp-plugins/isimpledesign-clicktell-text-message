@@ -11,6 +11,9 @@ Author URI: http://www.isimpledesign.co.uk
 License: GPL2
 */
 
+$user = '';
+$password = '';
+$apiid = '';
 
 // Put our defaults in the "wp-options" table
 add_option("isd-user", $user);
